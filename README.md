@@ -146,4 +146,15 @@ With a VPN:
 - All data is encrypted in transit.
 - You appear to browse from a different location.
 - Attackers can’t intercept readable data.
+---
 
+### 🔍 Protocol Used in This Task
+
+For ProtonVPN (Free Tier):
+
+- **Default Protocol**: `OpenVPN (UDP)`
+- **Encryption**: `AES-256-CBC + RSA-4096 + SHA-512`
+
+This provides strong encryption and good performance for general web browsing and privacy needs.
+
+---
