@@ -10,7 +10,7 @@ Set up and test a VPN to understand its role in protecting user privacy and secu
 
 - **VPN Client**: ProtonVPN (Free Tier)
 - **IP Checker**: [whatismyipaddress.com](https://www.whatismyipaddress.com)
-- **Device**: Windows 11 (laptop)
+- **Device**: Windows 10 (laptop)
 
 ---
 
@@ -28,8 +28,8 @@ Set up and test a VPN to understand its role in protecting user privacy and secu
 
 | State               | IP Address         | Location       | Screenshot                   |
 |--------------------|--------------------|----------------|------------------------------|
-| Before VPN         | `103.25.xxx.xxx`   | India          | `screenshots/before.png`     |
-| After VPN Connect  | `185.159.157.11`   | Netherlands    | `screenshots/after.png`      |
+| Before VPN         | `157.51.xxx.xxx`   | India          | `screenshots/before.png`     |
+| After VPN Connect  | `185.107.80.68`   | Netherlands    | `screenshots/after.png`      |
 
  Verified IP address changed using `whatismyipaddress.com`
 
